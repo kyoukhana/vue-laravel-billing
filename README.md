@@ -19,3 +19,8 @@ php artisan migrate
 
 php artisan db:seed
 ```
+
+
+## Apache
+Now I am using apache you need to edit your virtual host file and point
+to the public folder
